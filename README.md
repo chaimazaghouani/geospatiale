@@ -17,6 +17,7 @@ Ensure that PostgreSQL is running on the same port as specified in the code.
 For the PostgreSQL tables, you don't need to worry; the code will handle their creation. Just prepare the database and pass the credentials into the code.
 ## Pipline
 ![Capture d'écran du projet](https://user-images.githubusercontent.com/80635318/208999275-1a5368ea-6109-421e-8945-8f3741a053a7.PNG)
-## Map View ![Capture d'écran du projet](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/OpenLayers_logo.svg/langfr-1024px-OpenLayers_logo.svg.png)
+## Map View ![image](https://github.com/chaimazaghouani/geospatiale/assets/110690177/32f523df-68eb-45eb-b30f-7c1116ca4543)
+
 
 
